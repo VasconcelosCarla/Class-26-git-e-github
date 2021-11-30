@@ -1,1 +1,2 @@
-# Class-26-git-e-github
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
